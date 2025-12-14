@@ -28,7 +28,8 @@ We view this initiative as our digital **Jihad (striving)**—a relentless effor
 We have solved a major pain point for Muslims globally: **Purifying wealth from Interest.**
 
 ### [🛡️ RibaPurify](https://github.com/Code-for-Ummah/RibaPurify)
-### Live Demo Link : ribapurify.vercel.app
+### [Live Demo Link](ribapurify.vercel.app)
+
   <img width="1234" height="751" alt="Screenshot 2025-12-14 at 4 49 02 AM" src="https://github.com/user-attachments/assets/80f6fce3-25a9-4d4d-b377-350365e0642b" />
 
 **Status:** ✅ Live (Version 1.0)
